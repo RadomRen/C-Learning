@@ -1,4 +1,0 @@
-﻿  test01.c
-D:\BaiduSyncdisk\Learning\C语言\C语言基础\编程练习\test01.c(187,23): warning C4013: “strlen”未定义；假设外部返回 int
-  LINK : 没有找到 D:\BaiduSyncdisk\Learning\C语言\C语言基础\x64\Debug\编程练习.exe 或上一个增量链接没有生成它；正在执行完全链接
-  编程练习.vcxproj -> D:\BaiduSyncdisk\Learning\C语言\C语言基础\x64\Debug\编程练习.exe
