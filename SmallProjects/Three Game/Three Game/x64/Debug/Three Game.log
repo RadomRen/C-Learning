@@ -1,4 +1,0 @@
-﻿  game.c
-D:\BaiduSyncdisk\Learning\C语言\Three Game\Three Game\game.c(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
-D:\BaiduSyncdisk\Learning\C语言\Three Game\Three Game\game.c(980,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
-  Three Game.vcxproj -> D:\BaiduSyncdisk\Learning\C语言\Three Game\x64\Debug\Three Game.exe
