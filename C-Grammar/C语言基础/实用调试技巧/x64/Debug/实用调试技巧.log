@@ -1,0 +1,4 @@
+﻿  test.c
+D:\BaiduSyncdisk\Learning\C语言\C语言基础\实用调试技巧\test.c(74,1): warning C4090: “初始化”: 不同的“const”限定符
+D:\BaiduSyncdisk\Learning\C语言\C语言基础\实用调试技巧\test.c(82,12): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  实用调试技巧.vcxproj -> D:\BaiduSyncdisk\Learning\C语言\C语言基础\x64\Debug\实用调试技巧.exe
