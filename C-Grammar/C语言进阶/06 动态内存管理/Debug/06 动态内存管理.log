@@ -1,5 +1,0 @@
-﻿  02 柔性数组.c
-D:\BaiduSyncdisk\Learning\C语言\C语言进阶\06 动态内存管理\02 柔性数组.c(49,28): warning C4013: “malloc”未定义；假设外部返回 int
-D:\BaiduSyncdisk\Learning\C语言\C语言进阶\06 动态内存管理\02 柔性数组.c(65,19): warning C4013: “realloc”未定义；假设外部返回 int
-D:\BaiduSyncdisk\Learning\C语言\C语言进阶\06 动态内存管理\02 柔性数组.c(73,2): warning C4013: “free”未定义；假设外部返回 int
-  06 动态内存管理.vcxproj -> D:\BaiduSyncdisk\Learning\C语言\C语言进阶\Debug\06 动态内存管理.exe
